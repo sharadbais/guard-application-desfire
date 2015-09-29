@@ -1,0 +1,1 @@
+This guard application is written for the Android platform to forward messages between the DESFire tag and the server
